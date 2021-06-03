@@ -1,0 +1,22 @@
+html, body {
+    margin: 0;
+    height: 100%;
+    box-sizing: border-box;
+}
+
+.flex {
+    display: flex;
+    border: 1px black solid;
+    height: 100%;
+    box-sizing: border-box;
+}
+
+.nav {
+    flex: 1;
+    border: 1px black solid;
+}
+
+.chart {
+    flex: 1;
+    border: 1px black solid;
+}
